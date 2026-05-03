@@ -1,0 +1,20 @@
+# виртуальное окружение
+.venv/
+
+# база данных sqlite
+*.db
+app.db
+
+# переменные окружения
+.env
+
+# кэш питона
+__pycache__/
+*.py[cod]
+*.pyo
+.ruff_cache/
+*cache/*
+
+# ide
+.vscode/
+
