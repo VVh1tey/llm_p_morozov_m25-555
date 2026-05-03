@@ -162,6 +162,7 @@ GET /chat/history
 ### Удаление истории
 
 DELETE /chat/history
+
 Пробуем почистить историю:
 
 ![Удаление истории](screenshots/screen8.png)
